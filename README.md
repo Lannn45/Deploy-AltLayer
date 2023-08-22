@@ -1,4 +1,4 @@
-## Deploying a token on the AltLayer dashboard
+## Deploying a token on the Altlayer Dashboard
 
 
 ![Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*rsAHPZkNXFfTPEPQx53TMQ.png)
@@ -12,6 +12,15 @@ AltLayer is a decentralized and elastic Rollup-as-a-Service (RaaS) protocol for 
 > - [Explorer](https://testnet-rollup-explorer.altlayer.io/)
 > - [Bridge](https://testnet-rollup-bridge.altlayer.io/)
 > - [Guide](https://docs.altlayer.io/altlayer-documentation/testnet/overview)
+
+# Step by Step
+1. Create New File:
+   Look for an option like "New File" or "Create New File." Click on it to initiate the process of creating a new file.
+2. Name the File:
+   You'll be prompted to give a name to the new file. Choose a name that makes sense for the content you'll be pasting. For example, if     the code is related to a specific project, you can name the file accordingly.
+3. Paste the Code:
+   After the new file is created, you should see an empty editor window. This is where you'll paste the code.
+![Screenshot 2023-08-22 190225](https://github.com/Lannn45/Deploy-Atlayer/assets/117993673/946c792f-d2f3-4165-99a5-7d680c8b0163)
 
 ```
 // SPDX-License-Identifier: UNLISCENSED
@@ -119,6 +128,14 @@ contract PythonDefi{
 }
 
 ```
+Changing a contract,name,symbol,totalSupply,decimals with a custom name
 
-### Changing a contract,name,symbol,totalSupply,decimals with a custom name
+4. Compile
+![Screenshot 2023-08-22 190135](https://github.com/Lannn45/Deploy-Atlayer/assets/117993673/796e79e6-9b66-4a87-bbe4-a2cab42b8940)
 
+5. Deploy
+![Screenshot 2023-08-22 192224](https://github.com/Lannn45/Deploy-Atlayer/assets/117993673/8f1492e7-db66-409a-83e0-60c03596800d)
+
+AltLayer IDE and Its Similarities to Remix IDE:
+
+The AltLayer IDE, much like Remix IDE, provides a comprehensive development environment tailored for working with smart contracts on blockchain networks.
